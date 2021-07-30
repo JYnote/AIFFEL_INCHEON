@@ -1,6 +1,6 @@
-# [AIFFEL_INCHEON](https://aiffel.io/aiffel-ic/)
+# AIFFEL_INCHEON
 
-AIFFEL : 모두의 연구소와 함께하는 인공지능 전문가 양성 과정
+[AIFFEL](https://aiffel.io/) : 모두의 연구소와 함께하는 인공지능 전문가 양성 과정
 
 ## EXPLORATION
 
