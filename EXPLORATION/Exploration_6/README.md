@@ -1,4 +1,5 @@
 # EXPLORATION 6
+나의 첫 번째 캐글 경진대회!  
 This is your playground! Leaderboard를 정복해 주세요!
 
 
