@@ -10,6 +10,7 @@
   - dlib을 이용해서 얼굴의 bounding box 위치와 landmark의 위치를 찾아주세요.
 - (3) 스티커 적용 위치 확인하기
   - 고양이 수염이 적용 될 볼 위치를 landmark를 사용해서 계산해 주세요.
+
 ![image](https://d3s0tskafalll9.cloudfront.net/media/original_images/E-8-8.png)
 
 - (4) 스티커 적용하기
