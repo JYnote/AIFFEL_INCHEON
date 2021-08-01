@@ -2,7 +2,7 @@
 
 [AIFFEL](https://aiffel.io/) : 모두의 연구소와 함께하는 인공지능 전문가 양성 과정
 
-## EXPLORATION
+## PROJECT
 - Week 1 : [1주차 후기](https://jynote.github.io/aiffel/2021/07/03/8/)
 
 - Week 2 : [2주차 후기](https://jynote.github.io/aiffel/2021/07/09/9/)
