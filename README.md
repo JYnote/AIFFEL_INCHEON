@@ -19,6 +19,6 @@
   - EXPLORATION 5 : [나랑 닮은 연예인은 누구?](./EXPLORATION/Exploration_05)
   - EXPLORATION 6 : [나의 첫 번째 캐글 경진대회](./EXPLORATION/Exploration_06)
 
-- Week 6 : 
+- Week 6 : [6주차 후기](https://jynote.github.io/aiffel/2021/08/06/15/)
   - EXPLORATION 7 : [영화리뷰 텍스트 감성분석하기](./EXPLORATION/Exploration_07)
   - HACKATHON 1 : [Recruit Restaurant Visitor Forecasting](./HACKATHON_1)

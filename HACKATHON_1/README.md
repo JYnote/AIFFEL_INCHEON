@@ -1,5 +1,3 @@
-
----
 # Recruit Restaurant Visitor Forecasting
 > [대회 링크](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)
 
