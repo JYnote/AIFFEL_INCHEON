@@ -21,3 +21,4 @@
 
 - Week 6 : 
   - EXPLORATION 7 : [영화리뷰 텍스트 감성분석하기](./EXPLORATION/Exploration_07)
+  - HACKATHON 1 : [Recruit Restaurant Visitor Forecasting](./HACKATHON_1)
