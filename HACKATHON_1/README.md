@@ -24,5 +24,5 @@
 
 ---
 ### 우리팀의 이름 : LCKRegressor
-### 우리팀의 최종 결과물 : [Hackathon_LCKRegressor.ipynb](https://nbviewer.jupyter.org/github/JYnote/AIFFEL_INCHEON/blob/main/Hackathon_1/Hackathon_LCKRegressor.ipynb)
+### 우리팀의 최종 결과물 : [Hackathon_LCKRegressor.ipynb](https://nbviewer.jupyter.org/github/JYnote/AIFFEL_INCHEON/blob/main/HACKATHON_1/Hackathon_LCKRegressor.ipynb)
 
