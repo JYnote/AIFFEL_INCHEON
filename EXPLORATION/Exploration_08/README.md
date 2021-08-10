@@ -25,7 +25,6 @@ Semantic segmentation의 부정확성이 여러 가지 문제를 발생시키는
 카메라 2개를 통해 생성한 3d 영상으로 인물모드를 더 정확하게 만들 수 있을까요? 우리는 카메라 1대가 찍은 영상에서 semantic segmentation을 시도하였고, 그 결과가 정확하지 않았습니다. 요즘 스마트폰의 카메라는 렌즈가 2개 달려있지요? 왜 굳이 그렇게까지 하는지 아래 [링크](https://m.blog.naver.com/panoptics/221336152952)를 보면서 이해해 봅시다.
 
 #### 깊이 영상(Depth image) 활용하기 : [링크1](https://towardsdatascience.com/depth-prediction-autonomous-driving-18d05ff25dd6), [링크2](https://sites.google.com/view/struct2depth)
-하지만 꼭 카메라가 2개여야 할까요? 아래 이미지는 Struct2Depth 라는 기법을 소개한 Google Brain의 논문에 있는 이미지입니다. 아래 이미지의 세 번째 컬럼이 보다 명확하게 depth에 따른 물체인식을 보여 주는데, 이것은 LiDAR가 없이도 아주 정확한 segmentation을 동반한 depth sensor가 가능함을 보여줍니다.
 
 #### IR(적외선)을 활용한 사례
 구글 pixel4에 IR 카메라가 달려있는데, 이를 통해 보다 멋진 [3d depth sensing](https://ai.googleblog.com/2020/04/udepth-real-time-3d-depth-sensing-on.html)이 가능하다는군요. 
