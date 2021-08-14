@@ -23,6 +23,6 @@
   - EXPLORATION 7 : [영화리뷰 텍스트 감성분석하기](./EXPLORATION/Exploration_07)
   - HACKATHON 1 : [Recruit Restaurant Visitor Forecasting](./HACKATHON_1)
 
-- Week 7 : 
+- Week 7 : [7주차 후기](https://jynote.github.io/aiffel/2021/08/13/16/)
   - EXPLORATION 8 : [인물사진을 만들어 보자](./EXPLORATION/Exploration_08)
   - EXPLORATION 9 : [영화 추천 시스템](./EXPLORATION/Exploration_09)
