@@ -26,3 +26,7 @@
 - Week 7 : [7주차 후기](https://jynote.github.io/aiffel/2021/08/13/16/)
   - EXPLORATION 8 : [인물사진을 만들어 보자](./EXPLORATION/Exploration_08)
   - EXPLORATION 9 : [영화 추천 시스템](./EXPLORATION/Exploration_09)
+
+- Week 8 : [8주차 후기](https://jynote.github.io/aiffel/2021/08/20/17/)
+  - EXPLORATION 8 : [뉴스 요약봇 만들기](./EXPLORATION/Exploration_10)
+  - EXPLORATION 9 : [폐렴아 기다려라!](./EXPLORATION/Exploration_11)
