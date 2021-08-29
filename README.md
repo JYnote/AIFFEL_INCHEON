@@ -28,5 +28,9 @@
   - EXPLORATION 9 : [영화 추천 시스템](./EXPLORATION/Exploration_09)
 
 - Week 8 : [8주차 후기](https://jynote.github.io/aiffel/2021/08/20/17/)
-  - EXPLORATION 8 : [뉴스 요약봇 만들기](./EXPLORATION/Exploration_10)
-  - EXPLORATION 9 : [폐렴아 기다려라!](./EXPLORATION/Exploration_11)
+  - EXPLORATION 10 : [뉴스 요약봇 만들기](./EXPLORATION/Exploration_10)
+  - EXPLORATION 11 : [폐렴아 기다려라!](./EXPLORATION/Exploration_11)
+
+- Week 9 : [9주차 후기](https://jynote.github.io/aiffel/2021/08/27/19/)
+  - EXPLORATION 12 : [다음에 볼 영화 예측하기](./EXPLORATION/Exploration_12)
+  - EXPLORATION 13 : [CIFAR-10 이미지 생성하기](./EXPLORATION/Exploration_13)
