@@ -38,3 +38,7 @@
 - [Week 10](https://jynote.github.io/aiffel/2021/09/03/21/)
   - EXPLORATION 14 : [어제 오른 내 주식, 과연 내일은?](./EXPLORATION/Exploration_14)
   - EXPLORATION 15 : [트랜스포머로 만드는 대화형 챗봇](./EXPLORATION/Exploration_15)
+
+- [Week 11](https://jynote.github.io/aiffel/2021/09/10/22/)
+  - EXPLORATION 16 : [흐린 사진을 선명하게](./EXPLORATION/Exploration_16)
+  - EXPLORATION 17 : [인간보다 퀴즈를 잘푸는 인공지능](./EXPLORATION/Exploration_17)
