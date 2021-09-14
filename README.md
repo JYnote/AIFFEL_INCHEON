@@ -18,7 +18,7 @@
 |Text Summarization|뉴스 요약봇 만들기|[🚕💨](./EXPLORATION/Exploration_10)|
 |Medical Image Analysis|폐렴아 기다려라!|[🚕💨](./EXPLORATION/Exploration_11)|
 |Session-based RecSys|다음에 볼 영화 예측하기|[🚕💨](./EXPLORATION/Exploration_12)|
-|DCGAN|CIFAR-10 이미지 생성하기|[➡](./EXPLORATION/Exploration_13)|
+|DCGAN|CIFAR-10 이미지 생성하기|[🚕💨](./EXPLORATION/Exploration_13)|
 |Time Series Forecasting|어제 오른 내 주식, 과연 내일은?|[🚕💨](./EXPLORATION/Exploration_14)|
 |Transformer|트랜스포머로 만드는 대화형 챗봇|[🚕💨](./EXPLORATION/Exploration_15)|
 |Super Resolution|흐린 사진을 선명하게|[🚕💨](./EXPLORATION/Exploration_16)|
