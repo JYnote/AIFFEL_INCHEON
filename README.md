@@ -26,6 +26,12 @@
 |OCR|문자를 읽을 수 있는 딥러닝|[▶](./EXPLORATION/Exploration_18)|
 |Pix2Pix|난 스케치를 할테니 너는 채색을 하거라|[▶](./EXPLORATION/Exploration_19)|
 
+## GOING DEEPER(CV)
+
+|Division|Contents|Link|
+|:---:|------|:---:|
+|ResNet|ResNet Ablation Study|[▶](./GOING_DEEPER/Going_Deeper_01)|
+
 ## HACKATHON
 |Division|Contents|Project|
 |:---:|------|:---:|
