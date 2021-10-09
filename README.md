@@ -31,6 +31,8 @@
 |Division|Contents|Link|
 |:---:|------|:---:|
 |ResNet|ResNet Ablation Study|[▶](./GOING_DEEPER/Going_Deeper_01)|
+|Augmentation|CutMix, MixUp|[▶](./GOING_DEEPER/Going_Deeper_02)|
+|CAM|Class Activation Map, Grad-CAM|[▶](./GOING_DEEPER/Going_Deeper_03)|
 
 ## HACKATHON
 |Division|Contents|Project|
