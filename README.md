@@ -34,7 +34,8 @@
 |Augmentation|CutMix, MixUp|[▶](./GOING_DEEPER/Going_Deeper_02)|
 |CAM|Class Activation Map, Grad-CAM|[▶](./GOING_DEEPER/Going_Deeper_03)|
 |Object Detection|자율주행 시스템|[▶](./GOING_DEEPER/Going_Deeper_04)|
-|Segmentation|U-Net++|[▶](./GOING_DEEPER/Going_Deeper_05)|
+|Segmentation|U-Net, U-Net++|[▶](./GOING_DEEPER/Going_Deeper_05)|
+|OCR|End-to-End OCR|[▶](./GOING_DEEPER/Going_Deeper_06)|
 
 ## HACKATHON
 |Division|Contents|Project|
