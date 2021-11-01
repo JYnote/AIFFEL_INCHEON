@@ -36,6 +36,7 @@
 |Object Detection|자율주행 시스템|[▶](./GOING_DEEPER/Going_Deeper_04)|
 |Segmentation|U-Net, U-Net++|[▶](./GOING_DEEPER/Going_Deeper_05)|
 |OCR|End-to-End OCR|[▶](./GOING_DEEPER/Going_Deeper_06)|
+|Object Detection|SSD, Face Detection|[▶](./GOING_DEEPER/Going_Deeper_07)|
 
 ## HACKATHON
 |Division|Contents|Project|
