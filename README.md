@@ -2,7 +2,7 @@
 
 [AIFFEL](https://aiffel.io/) : 모두의 연구소와 함께하는 인공지능 전문가 양성 과정
 
-## EXPLORATION
+## EXPLORATION(CV, NLP, Recommendation System, Kaggle)
 
 |Division|Contents|Link|
 |:---:|------|:---:|
@@ -14,7 +14,7 @@
 |Kaggle|나의 첫 번째 캐글 경진대회|[▶](./EXPLORATION/Exploration_06)|
 |Text Classification|영화리뷰 텍스트 감성분석하기|[▶](./EXPLORATION/Exploration_07)|
 |Image Segmentation|인물사진을 만들어 보자|[▶](./EXPLORATION/Exploration_08)|
-|Recommender System|영화 추천 시스템|[▶](./EXPLORATION/Exploration_09)|
+|Recommendation System|영화 추천 시스템|[▶](./EXPLORATION/Exploration_09)|
 |Text Summarization|뉴스 요약봇 만들기|[▶](./EXPLORATION/Exploration_10)|
 |Medical Image Analysis|폐렴아 기다려라!|[▶](./EXPLORATION/Exploration_11)|
 |Session-based RecSys|다음에 볼 영화 예측하기|[▶](./EXPLORATION/Exploration_12)|
@@ -26,7 +26,7 @@
 |OCR|문자를 읽을 수 있는 딥러닝|[▶](./EXPLORATION/Exploration_18)|
 |Pix2Pix|난 스케치를 할테니 너는 채색을 하거라|[▶](./EXPLORATION/Exploration_19)|
 
-## GOING DEEPER(CV)
+## GOING DEEPER(Computer Vision)
 
 |Division|Contents|Link|
 |:---:|------|:---:|
@@ -39,7 +39,7 @@
 |Object Detection|SSD, Face Detection|[▶](./GOING_DEEPER/Going_Deeper_07)|
 |Human Pose Estimation|StackedHourglass Network, Simplebaseline Model|[▶](./GOING_DEEPER/Going_Deeper_08)|
 
-## HACKATHON
+## HACKATHON(Kaggle, Computer Vision)
 |Division|Contents|Project|
 |:---:|------|:---:|
 |Kaggle|HACKATHON 1|[▶](./HACKATHON_1)|
