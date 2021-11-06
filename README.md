@@ -37,6 +37,7 @@
 |Segmentation|U-Net, U-Net++|[▶](./GOING_DEEPER/Going_Deeper_05)|
 |OCR|End-to-End OCR|[▶](./GOING_DEEPER/Going_Deeper_06)|
 |Object Detection|SSD, Face Detection|[▶](./GOING_DEEPER/Going_Deeper_07)|
+|Human Pose Estimation|StackedHourglass Network, Simplebaseline Model|[▶](./GOING_DEEPER/Going_Deeper_08)|
 
 ## HACKATHON
 |Division|Contents|Project|
